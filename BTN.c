@@ -1,4 +1,4 @@
-//# Desafio-Batalha-Naval-NOVATO-
+// Desafio-Batalha-Naval-NOVATO
 //Projeto simples, mas um desafio de programação estruturado, uma ótima maneira de aprimorar habilidades em linguagem C.
 
 #include <stdio.h> // Biblioteca necessária para usar a função de impressão printf()
